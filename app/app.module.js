@@ -1,4 +1,4 @@
-(function(){
+(function(app){
     app.AppModule =
         ng.core.NgModule({
             imports: [ng.platformBrowser.BrowserModule],
