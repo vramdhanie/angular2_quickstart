@@ -3,7 +3,7 @@
         ng.core.NgModule({
             imports: [ng.platformBrowser.BrowserModule],
             declarations: [app.AppComponent],
-            botstrap: [app.AppComponent]
+            bootstrap: [app.AppComponent]
         })
         .Class({
             constructor: function(){}
