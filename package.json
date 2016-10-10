@@ -1,0 +1,14 @@
+{
+  "name": "quickstart",
+  "version": "1.0.0",
+  "description": "The Anguar 2 Quickstart Tutorial",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Angular2"
+  ],
+  "author": "Vincent Ramdhanie",
+  "license": "ISC"
+}
